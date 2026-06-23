@@ -35,7 +35,6 @@ I'm **Panja Sai Manikanta Ganesh**, an Electronics & Communication Engineering s
 **Generative AI & LLMs**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![IBM Watson](https://img.shields.io/badge/IBM%20WatsonX-006699?style=for-the-badge&logo=ibm&logoColor=white)
 
 **Embedded Systems**
 
