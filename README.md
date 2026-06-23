@@ -5,7 +5,7 @@
 
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hello!+I'm+Panja+Sai+Manikanta+Ganesh+%F0%9F%91%8B;AI-ML+Engineer+%26+ECE+Student;Generative+AI+%7C+LLMs+%7C+Deep+Learning;Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+the+Future+of+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hello!+I'm+Panja+Sai+Manikanta+Ganesh+%F0%9F%91%8B;Aspiring AI-ML+Engineer+%26+ECE+Student;Generative+AI+%7C+LLMs+%7C+Deep+Learning;Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+the+Future+of+AI+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
